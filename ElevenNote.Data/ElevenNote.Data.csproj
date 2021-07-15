@@ -86,6 +86,7 @@
   <ItemGroup>
     <Compile Include="IdentityModels.cs" />
     <Compile Include="Note.cs" />
+    <Compile Include="NoteListItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
