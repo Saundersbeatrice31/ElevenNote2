@@ -50,7 +50,7 @@ namespace ElevenNote.Services
             );
                 return query.ToArray();
             }
-        }
+        }        
     }
 }
 
